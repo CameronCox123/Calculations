@@ -1,3 +1,12 @@
+# File: HW1.py
+# Author: Cameron Cox
+# UT EID: cpc2526
+# Course: CS303E
+#
+# Date: 9/7/23
+# Description of Program: Calculates percentages for given user inputs. 
+
+
 nameAsk = input("What is your name? ")
 print(f"Hello {nameAsk}! You have just delved into Python.")
 
